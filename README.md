@@ -130,9 +130,11 @@ if __name__ == '__main__':
     app.run(debug=True)
 ```
 
-![Branded App screen 1] (screenshots/branded_top.png)
+![[Branded App screen 1] (screenshots/branded_top.png)](https://github.com/thejonathanjin/BrandedApp/blob/main/GoogleGeminiExperiment/screenshots/branded_top.png?raw=true)
 
-![Branded App screen 2] (screenshots/branded_bottom.png)
+
+
+![[Branded App screen 2] (screenshots/branded_bottom.png)](https://github.com/thejonathanjin/BrandedApp/blob/main/GoogleGeminiExperiment/screenshots/branded_bottom.png?raw=true)
 
 ## Contributing
 
