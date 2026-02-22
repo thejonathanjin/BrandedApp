@@ -130,9 +130,9 @@ if __name__ == '__main__':
     app.run(debug=True)
 ```
 
-![Branded App screen 1]([images/my-image.png](/screenshots/branded_top.png))
+![Branded App screen 1](/screenshots/branded_top.png)
 
-![Branded App screen 2]([images/my-image.png](/screenshots/branded_bottom.png))
+![Branded App screen 2](/screenshots/branded_bottom.png)
 
 
 ## Contributing
