@@ -130,9 +130,10 @@ if __name__ == '__main__':
     app.run(debug=True)
 ```
 
-<iframe src="https://giphy.com/embed/uQhr9Y6c8DJAbiSAOq" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uQhr9Y6c8DJAbiSAOq">via GIPHY</a></p>
+![Branded App screen 1]([images/my-image.png](https://github.com/thejonathanjin/BrandedApp/blob/main/GoogleGeminiExperiment/screenshots/branded_top.png))
 
-<iframe src="https://giphy.com/embed/IHWGDeTEFKuRpIJRMK" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/IHWGDeTEFKuRpIJRMK">via GIPHY</a></p>
+![Branded App screen 2]([images/my-image.png](https://github.com/thejonathanjin/BrandedApp/blob/main/GoogleGeminiExperiment/screenshots/branded_bottom.png))
+
 
 ## Contributing
 
